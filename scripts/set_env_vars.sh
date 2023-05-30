@@ -1,5 +1,5 @@
 #!/bin/bash
-
+SERVICE_NAME=myservice
 read -p "Enter the Cloud Run Service name: " SERVICE_NAME
 read -s -p "Enter the API KEY: " API_KEY
 
